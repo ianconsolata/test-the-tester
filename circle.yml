@@ -1,6 +1,3 @@
 dependencies:
   pre:
-    - echo "Hello World."
-    - echo "My Name is Inigo Montoya."
-    - echo "You killed my father."
-    - echo "Prepare to die."
+    - echo $TEST_TEXT
